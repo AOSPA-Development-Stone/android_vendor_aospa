@@ -14,6 +14,7 @@
 
 # Product Makefiles
 PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/stone/aospa_stone.mk \
     $(LOCAL_DIR)/alioth/aospa_alioth.mk \
     $(LOCAL_DIR)/apollo/aospa_apollo.mk \
     $(LOCAL_DIR)/beryllium/aospa_beryllium.mk \
